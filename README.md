@@ -1,2 +1,2 @@
-# mchelloworld
-Hello world node sample. 
+# NodeMOTD
+Sample MOTD app.
